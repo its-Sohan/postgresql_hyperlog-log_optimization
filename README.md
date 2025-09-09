@@ -65,3 +65,4 @@ psql -f benchmark.sql
 | **User Dashboards (MAU)** | ❌ | ✅ | HLL (Speed > Perfect Accuracy) |
 | **A/B Testing** | ❌ | ✅ | HLL (Trend analysis is sufficient) |
 | **Small Datasets (<1M)** | ✅ | ❌ | Exact (Overhead of HLL isn't worth it) |
+-- commit 9: 1789737388
