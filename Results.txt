@@ -18,3 +18,4 @@ Run `psql -f benchmark.sql` and paste the results here.
 - Query Plan: 
 -- commit 0: 1789737388
 -- commit 20: 1789737389
+-- commit 28: 1789737389
