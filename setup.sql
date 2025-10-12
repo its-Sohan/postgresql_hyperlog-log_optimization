@@ -21,3 +21,4 @@ CREATE INDEX ON events (user_id);
 ANALYZE events;
 -- commit 2: 1789737388
 -- commit 6: 1789737388
+-- commit 7: 1789737388
