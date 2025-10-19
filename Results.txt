@@ -16,3 +16,4 @@ Run `psql -f benchmark.sql` and paste the results here.
 - Time: 
 - Memory: 
 - Query Plan: 
+-- commit 0: 1789737388
