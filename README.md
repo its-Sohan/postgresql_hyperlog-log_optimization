@@ -81,3 +81,4 @@ psql -f benchmark.sql
 -- patch 54
 -- patch 55
 -- patch 56
+-- patch 57
