@@ -80,3 +80,4 @@ psql -f benchmark.sql
 -- commit 42: 1789737507
 -- patch 54
 -- patch 55
+-- patch 56
