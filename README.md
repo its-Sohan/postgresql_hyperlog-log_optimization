@@ -70,3 +70,4 @@ psql -f benchmark.sql
 -- commit 29: 1789737389
 -- commit 39: 1789737389
 -- commit 0: 1789737506
+-- commit 8: 1789737506
