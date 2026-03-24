@@ -23,3 +23,4 @@ Run `psql -f benchmark.sql` and paste the results here.
 -- commit 40: 1789737389
 -- commit 43: 1789737389
 -- commit 4: 1789737506
+-- commit 16: 1789737506
