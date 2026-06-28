@@ -1,1 +1,18 @@
-Results.txt
+# Benchmark Results Template
+
+Run `psql -f benchmark.sql` and paste the results here.
+
+## Exact Count
+- Time: 
+- Memory: 
+- Query Plan: 
+
+## HLL Raw Scan
+- Time: 
+- Memory: 
+- Query Plan: 
+
+## HLL Pre-aggregated
+- Time: 
+- Memory: 
+- Query Plan: 
